@@ -1,8 +1,17 @@
-# Global CloudCannon configuration
+collections_config:
+  pages:
+    _enabled_editors:
+      - visual
+  posts:
+    _enabled_editors:
+      - content
+      - visual
 _inputs:
   title: "HUGO-Amplify_TEST"
     type: text
     comment: The title of your page.
+  content:
+    type: markdown
 
    
 
