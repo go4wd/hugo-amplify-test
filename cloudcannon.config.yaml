@@ -1,4 +1,4 @@
- Global CloudCannon configuration
+# Global CloudCannon configuration
 _inputs:
   title: "HUGO-Amplify_TEST"
     type: text
