@@ -27,23 +27,23 @@ img {
 }
 
 .intro > h1 {
-    color: #eeeeee;
+    color: 666666;
     font-size: 12vh;
 }
 
 .intro > h2 {
-    color: #dddddd;
+    color: #666666;
     font-size: 3vmin;
 }
 
 @media only screen and (orientation: portrait) {
     .intro > h1 {
-        color: #eeeeee;
+        color: #333333;
         font-size: 32px;
     }
 
     .intro > h2 {
-        color: #dddddd;
+        color: #666666;
         font-size: 24px;
     }
 }
@@ -51,17 +51,17 @@ img {
 /* Single page - currently just the About page */
 
 .single > h2 {
-    color: #eeeeee;
+    color: #333333;
 }
 
 .single > h5 {
-    color: #dddddd;
+    color: #666666;
 }
 
 /* List page - currently just the About page */
 
 .list > h2 {
-    color: #eeeeee;
+    color: #333333;
 }
 
 /* Page content */
@@ -76,7 +76,7 @@ img {
 }
 
 .content  p a {
-    color: #eeeeee;
+    color: #333333;
     text-decoration: underline;
 }
 
@@ -92,12 +92,12 @@ img {
 }
 
 .post-content  p a {
-    color: #eeeeee;
+    color: #333333;
     text-decoration: underline;
 }
 
 .post-content h5 {
-    color: #dddddd;
+    color: #666666;
 }
 
 .post-content ul {
@@ -105,11 +105,11 @@ img {
 }
 
 .post-heading h2 {
-    color: #eeeeee;
+    color: #333333;
 }
 
 .post-heading h5 {
-    color: #dddddd;
+    color: #666666;
 }
 
 /* Profile picture */
@@ -151,11 +151,11 @@ a:hover {
 }
 
 .item h4 {
-    color: #eeeeee;
+    color: #333333;
 }
 
 .item h5 {
-    color: #dddddd;
+    color: #666666;
 }
 
 .item-tag {
@@ -179,4 +179,3 @@ a:hover {
 footer {
     border-bottom: var(--border-width) solid var(--accent);
 }
-
