@@ -41,7 +41,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a simple Hugo based website to test how HUGO works with CodeCommit and can be published through to AWS Amplify.</description>
+      <description>This is a simple Hugo based website to test how it works with AWS Amplify.</description>
     </item>
     
   </channel>
